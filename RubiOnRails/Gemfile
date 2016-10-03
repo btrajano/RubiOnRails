@@ -1,3 +1,9 @@
+gem "paperclip" 
+gem "simple_form"
+gem "haml"
+gem "bootstrap"
+gem "html2haml" 
+
 source 'https://rubygems.org'
 
 
